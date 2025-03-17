@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Objetivos del curso Gitlab de IPAP
 ## Objetivo general
 Promover el trabajo ordenado y colaborativo para el desarrollo de sistemas dentro de los equipos de
@@ -12,8 +12,7 @@ https://learngitbranching.js.org/?locale=es_AR
 # Hello Git
 Git is a software that allows you to keep track of changes made to a project over time. Git works by recording the changes you make to a project, storing those changes, then allowing you to reference them as needed.
 https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git
-=======
-<<<<<<< HEAD
+
 ![Poncho](docs/node_modules/ar-poncho/img/poncho.gif)
 
 ### [Ver listado de íconos](//argob.github.io/iconos)
@@ -75,8 +74,7 @@ bundle install
 bundle exec fontcustom compile -F     # Compila la tipografía y templates
 bundle exec fontcustom watch          # Compila cuando las imágenes svg se cambian / agregan / eliminan
 ```
-=======
+
 # iconos
 Repo para actividad integradora del IPAP
->>>>>>> 009249fb9ea8c2987efa1ee6ef3916a7fe4f66dc
->>>>>>> proyectos
+
