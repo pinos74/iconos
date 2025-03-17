@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Poncho](docs/node_modules/ar-poncho/img/poncho.gif)
 
 ### [Ver listado de íconos](//argob.github.io/iconos)
@@ -59,3 +60,7 @@ bundle install
 bundle exec fontcustom compile -F     # Compila la tipografía y templates
 bundle exec fontcustom watch          # Compila cuando las imágenes svg se cambian / agregan / eliminan
 ```
+=======
+# iconos
+Repo para actividad integradora del IPAP
+>>>>>>> 009249fb9ea8c2987efa1ee6ef3916a7fe4f66dc
